@@ -1,6 +1,6 @@
 # Database and Analyze Project
 
-This is the first application for the First Sprint
+This is the Second Project for the Second Sprint
 # Video Link
 [Video](https://youtu.be/gx8EchZxZvU)
 # Dashboard Link
@@ -16,3 +16,4 @@ SQL with My SQL
 
 - [Tableau]([https://portal.azure.com/#home](https://www.tableau.com/es-es/products/public))
 - [My SQL](https://www.mysql.com/downloads/)
+
