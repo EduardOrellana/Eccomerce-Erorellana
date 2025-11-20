@@ -1,0 +1,111 @@
+idProducts,Name,Price,Stock,Category_idCategory
+141,"Smart Plug WiFi",14.99,150,1
+142,"Wireless Charger Pad",19.99,120,1
+143,"LED Desk Light",23.99,80,4
+144,"Ceramic Vases Set",18.49,60,4
+145,"Premium Shampoo Duo",15.99,90,5
+146,"Face Roller Jade",9.99,140,5
+147,"Boxing Gloves",39.99,50,6
+148,"Kettlebell 15lb",29.99,70,6
+149,"USB Flash Drive 64GB",12.99,200,1
+150,"Smart Door Sensor",22.49,80,1
+151,"Casual Hoodie",19.99,160,2
+152,"Loose Fit Pants",24.99,140,2
+153,"Inspirational Quotes Book",13.99,90,3
+154,"Sci-Fi Novel Vol. 3",17.99,110,3
+155,"Air Purifier Mini",49.99,70,4
+156,"Kitchen Organizer Rack",21.99,130,4
+157,"Anti-Frizz Hair Serum",11.49,150,5
+158,"Matte Lipstick Pack",14.99,130,5
+159,"Table Tennis Paddles",16.99,90,6
+160,"Hiking Backpack 30L",38.99,60,6
+161,"Gaming Microphone",59.99,50,7
+162,"RGB Case Fans (3 pcs)",27.99,120,7
+163,"Blue Ink Pen Pack",3.49,300,8
+164,"Desk Shelf Organizer",17.99,100,8
+165,"Car Air Freshener",6.99,260,9
+166,"Car Wax Premium",14.49,140,9
+167,"Toy Train Set",34.99,75,10
+168,"Kids Play Dough",9.49,200,10
+169,"USB-C Hub 6-in-1",32.99,90,1
+170,"Wireless Earbuds Pro",89.99,70,1
+171,"Cotton Pajamas",19.99,120,2
+172,"Men’s Tracksuit",29.99,110,2
+173,"Meditation Guide Book",12.49,85,3
+174,"Graphic Novel Vol. 4",16.99,95,3
+175,"Humidifier Mini",29.49,100,4
+176,"Glass Storage Jars",17.99,150,4
+177,"Hair Brush Premium",8.99,140,5
+178,"Makeup Palette 24 Colors",21.99,80,5
+179,"Tennis Racket Pro",59.99,50,6
+180,"Cycling Helmet",39.99,40,6
+181,"Gaming USB Hub",15.99,150,7
+182,"Pro Streaming Webcam",79.99,60,7
+183,"Notebook Spiral A4",5.99,300,8
+184,"Correction Tape Set",4.49,200,8
+185,"Car Mirror Phone Holder",12.99,160,9
+186,"Emergency Car Kit",34.99,40,9
+187,"Kids Art Paint Set",14.99,130,10
+188,"RC Helicopter Mini",45.99,50,10
+189,"Bluetooth Smart Tag",19.99,110,1
+190,"Portable MP3 Player",29.99,70,1
+191,"Sports Jacket",34.99,85,2
+192,"Winter Gloves",14.49,140,2
+193,"Beginner Piano Book",18.99,90,3
+194,"Classic Novel Edition",10.49,100,3
+195,"Air Mattress Single",39.99,40,4
+196,"Laundry Drying Rack",24.99,60,4
+197,"Face Cleanser Foam",9.99,150,5
+198,"Body Scrub Coconut",11.99,140,5
+199,"Volleyball Official",27.99,80,6
+200,"Boxing Hand Wraps",8.49,200,6
+201,"Gaming Portable SSD",79.99,40,7
+202,"Console Charging Dock",24.99,75,7
+203,"Sticky Notes Pack",2.99,400,8
+204,"Desk Mat Leather",19.99,90,8
+205,"Car Polishing Cloth",5.99,250,9
+206,"Car Seat Cushion",29.99,50,9
+207,"Stuffed Animal Bunny",15.99,100,10
+208,"Kids Drum Set Toy",44.99,40,10
+209,"Laptop Cooler Pad",27.99,90,1
+210,"Action Camera Mount Kit",14.99,110,1
+211,"Summer Dress",22.99,130,2
+212,"Casual Sneakers",39.99,90,2
+213,"Poetry Book Deluxe",14.99,60,3
+214,"Adventure Book Vol. 5",16.99,100,3
+215,"Pressure Cooker 6L",54.99,40,4
+216,"Kitchen Apron Set",12.99,120,4
+217,"Anti-Aging Serum",29.99,90,5
+218,"Hair Gel Strong",7.49,150,5
+219,"Skateboard Complete",59.99,50,6
+220,"Training Bag 50L",34.99,70,6
+221,"Gaming Mouse Wireless",34.99,120,7
+222,"RGB Tower Light",29.99,100,7
+223,"Office Notebook Pack",6.99,350,8
+224,"Desk Lamp Adjustable",15.99,140,8
+225,"Car Trunk Organizer",22.99,80,9
+226,"Wiper Blade Set",14.49,140,9
+227,"Wooden Train Set",19.99,120,10
+228,"Kids Science Kit",29.99,70,10
+229,"Bluetooth Keyboard",24.99,120,1
+230,"Smartphone Lens Kit",14.99,100,1
+231,"Sports Leggings",18.49,150,2
+232,"Graphic T-Shirt",13.99,200,2
+233,"Machine Learning Advanced",44.99,50,3
+234,"Classic Fables Set",12.99,130,3
+235,"Iron Steamer",29.99,70,4
+236,"Waffle Maker Mini",24.99,80,4
+237,"Eye Cream Hydrating",17.99,140,5
+238,"Hair Vitamins Gummies",19.99,120,5
+239,"Soccer Cones Set",14.99,180,6
+240,"Hiking Trek Poles",32.99,60,6
+241,"Gaming GPU Stand",19.99,100,7
+242,"Digital Gamepad Retro",29.99,90,7
+243,"Clipboard A4",4.49,200,8
+244,"Dual Monitor Stand",49.99,40,8
+245,"Car LED Interior Lights",19.99,140,9
+246,"Fuel Injector Cleaner",8.99,120,9
+247,"Kids Coloring Book",6.99,210,10
+248,"Magnetic Puzzle Set",14.99,100,10
+249,"USB Desk Fan",12.99,160,1
+250,"Portable Bluetooth Radio",22.99,90,1
