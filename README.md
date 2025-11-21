@@ -2,7 +2,7 @@
 
 This is the Second Project for the Second Sprint
 # Video Link
-[Video](https://youtu.be/gx8EchZxZvU)
+[Video]([https://youtu.be/gx8EchZxZvU](https://youtu.be/jd9k7kXHeCw))
 # Dashboard Link
 [Dashboard Link](https://public.tableau.com/views/Dashboard_17636097265650/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -16,6 +16,7 @@ SQL with My SQL
 
 - [Tableau](https://www.tableau.com/es-es/products/public)
 - [My SQL](https://www.mysql.com/downloads/)
+
 
 
 
